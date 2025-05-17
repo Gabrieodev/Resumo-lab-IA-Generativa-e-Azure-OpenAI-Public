@@ -1,0 +1,1 @@
+# Resumo-lab-IA-Generativa-e-Azure-OpenAI-Public
